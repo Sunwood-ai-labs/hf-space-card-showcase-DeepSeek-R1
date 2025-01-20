@@ -1,4 +1,7 @@
 
+> [!NOTE]
+> このアプリケーションは [DeepSeek-R1](https://openrouter.ai/deepseek/deepseek-r1) を活用して制作されました。
+
 ![Project Header](https://github.com/user-attachments/assets/917d449f-422f-4203-80b1-29d82b143caf)
 
 ## 🌟 主な機能
